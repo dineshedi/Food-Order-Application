@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Food-Order-Application/static/css/main.d1798543.css",
+    "main.js": "/Food-Order-Application/static/js/main.ca7f886d.js",
+    "static/media/dosa.jpg": "/Food-Order-Application/static/media/dosa.3aa72c7bdaf8580e0f0b.jpg",
+    "index.html": "/Food-Order-Application/index.html",
+    "main.d1798543.css.map": "/Food-Order-Application/static/css/main.d1798543.css.map",
+    "main.ca7f886d.js.map": "/Food-Order-Application/static/js/main.ca7f886d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1798543.css",
+    "static/js/main.ca7f886d.js"
+  ]
+}
